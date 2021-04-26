@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6366" started-at="2021-04-22T23:06:19 CEST" finished-at="2021-04-22T23:06:25 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6366" started-at="2021-04-22T23:06:19 CEST" finished-at="2021-04-22T23:06:25 CEST">
+      <class name="com.org.testapi.TestApiGetUsingQueryParams">
+        <test-method status="PASS" signature="GenerateID()[pri:0, instance:com.org.testapi.TestApiGetUsingQueryParams@436e852b]" name="GenerateID" is-config="true" duration-ms="2611" started-at="2021-04-22T23:06:19 CEST" finished-at="2021-04-22T23:06:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateID -->
+        <test-method status="PASS" signature="readjasonBin()[pri:1, instance:com.org.testapi.TestApiGetUsingQueryParams@436e852b]" name="readjasonBin" duration-ms="414" started-at="2021-04-22T23:06:22 CEST" finished-at="2021-04-22T23:06:22 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readjasonBin -->
+        <test-method status="PASS" signature="AupdatejasonBin()[pri:2, instance:com.org.testapi.TestApiGetUsingQueryParams@436e852b]" name="AupdatejasonBin" duration-ms="676" started-at="2021-04-22T23:06:22 CEST" finished-at="2021-04-22T23:06:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AupdatejasonBin -->
+        <test-method status="PASS" signature="changeprivacyBin()[pri:3, instance:com.org.testapi.TestApiGetUsingQueryParams@436e852b]" name="changeprivacyBin" duration-ms="661" started-at="2021-04-22T23:06:23 CEST" finished-at="2021-04-22T23:06:23 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeprivacyBin -->
+        <test-method status="PASS" signature="versionscountBin()[pri:4, instance:com.org.testapi.TestApiGetUsingQueryParams@436e852b]" name="versionscountBin" duration-ms="677" started-at="2021-04-22T23:06:23 CEST" finished-at="2021-04-22T23:06:24 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- versionscountBin -->
+        <test-method status="PASS" signature="deletejasonBin()[pri:5, instance:com.org.testapi.TestApiGetUsingQueryParams@436e852b]" name="deletejasonBin" duration-ms="672" started-at="2021-04-22T23:06:24 CEST" finished-at="2021-04-22T23:06:25 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletejasonBin -->
+        <test-method status="PASS" signature="delversionsBin()[pri:6, instance:com.org.testapi.TestApiGetUsingQueryParams@436e852b]" name="delversionsBin" duration-ms="622" started-at="2021-04-22T23:06:25 CEST" finished-at="2021-04-22T23:06:25 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delversionsBin -->
+      </class> <!-- com.org.testapi.TestApiGetUsingQueryParams -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
